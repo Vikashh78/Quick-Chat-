@@ -59,7 +59,7 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 
 Start the backend server:
-`npm run dev`
+`npm run start`
 
 # 3️⃣ Setup Frontend -- 
 `cd client
